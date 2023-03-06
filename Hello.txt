@@ -1,5 +1,5 @@
 Hello World!!
-Fix the typo
 
 
-Kylian Boudjelal-Gronnier
+
+Created by Kylian Boudjelal-Gronnier
